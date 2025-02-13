@@ -5,11 +5,7 @@ Dataset: To answer the research questions, we considered two different datasets.
 Detection Models: To address RQ3, to detect the LLMs and human authors, we chose five supervised machine learning (ML) models, namely Linear Support Vector Machine, Support Vector Machines with RBF kernel, Logistic Regression, Decision Tree, and Random Forest, organized all in .ipynb files:
 
 DecisionTree.ipynb;
-
 LogisticRegression.ipynb;
-
 RandomForest.ipynb;
-
 SVMLinear.ipynb;
-
 SVM_RBF.ipynb
