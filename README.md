@@ -28,7 +28,7 @@ Features Emulation: To address RQ1, We determine which stylometric features can 
 
 Survey: To address RQ2, the following file represents the survey results:
 
-1.
+1. Survey.csv
 
 Detection Models: To address RQ3, to detect the LLMs and human authors, we chose five supervised machine learning (ML) models, namely Linear Support Vector Machine, Support Vector Machines with RBF kernel, Logistic Regression, Decision Tree, and Random Forest, organized all in .ipynb files:
 
