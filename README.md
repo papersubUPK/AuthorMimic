@@ -17,9 +17,9 @@ Mean and Standard Deviation: We determine the mean and standard deviation (STD) 
 2. MeanSTD2Authors.csv  
 3. MeanSTD3Authors.csv  
 
-1. MicmickedMeanSTD1Authors.csv (16 features with mean and STD values for each author)
-2. MicmickedMeanSTD2Authors.csv (16 features with mean and STD values for each author)
-3. MicmickedMeanSTD3Authors.csv (19 features with mean and STD values for each author)
+1. MicmickedMeanSTD1Authors.csv (16 features with mean and STD values)
+2. MicmickedMeanSTD2Authors.csv (16 features with mean and STD values)
+3. MicmickedMeanSTD3Authors.csv (19 features with mean and STD values)
 
 
 Features Emulation: To address RQ1, We determine which stylometric features can be effectively mimicked by different LLMs using the following file:
