@@ -11,6 +11,16 @@ We extract features and determine the mean and STD using the following Programs:
 1. LLMFeaturesExtraction.ipynb
 2. Mean&STD.ipynb
 
+Mean and Standard Deviation: We determine the mean and standard deviation (STD) for each human and LLM data setup and are organized as: 
+
+1. MeanSTD1Authors.csv 
+2. MeanSTD2Authors.csv  
+3. MeanSTD3Authors.csv  
+
+1. MicmickedMeanSTD1Authors.csv (16 features with mean and STD values for each author)
+2. MicmickedMeanSTD2Authors.csv (16 features with mean and STD values for each author)
+3. MicmickedMeanSTD3Authors.csv (19 features with mean and STD values for each author)
+
 
 Features Emulation: To address RQ1, We determine which stylometric features can be effectively mimicked by different LLMs using the following file:
 
