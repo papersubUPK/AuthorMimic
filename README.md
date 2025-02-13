@@ -5,9 +5,9 @@ Datasets: To answer the research questions, we considered two different datasets
 1. Human-Extraction;
 2. 
 The LLMs Dataset is built using 10 different models as is presented as: 
-1. Prompt-01-Extraction;
-2. Prompt-02-Extraction;
-3. Prompt-03-Extraction;
+1. Prompt-01-Extraction.csv;
+2. Prompt-02-Extraction.csv;
+3. Prompt-03-Extraction.csv
 
 
 Detection Models: To address RQ3, to detect the LLMs and human authors, we chose five supervised machine learning (ML) models, namely Linear Support Vector Machine, Support Vector Machines with RBF kernel, Logistic Regression, Decision Tree, and Random Forest, organized all in .ipynb files:
