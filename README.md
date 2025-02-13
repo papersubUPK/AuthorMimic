@@ -9,6 +9,10 @@ The LLMs Dataset is built using 10 different models as is presented as:
 2. Prompt-02-Extraction.csv;
 3. Prompt-03-Extraction.csv
 
+We extract features using the following Program:
+
+1. LLMFeaturesExtraction.ipynb
+
 
 Detection Models: To address RQ3, to detect the LLMs and human authors, we chose five supervised machine learning (ML) models, namely Linear Support Vector Machine, Support Vector Machines with RBF kernel, Logistic Regression, Decision Tree, and Random Forest, organized all in .ipynb files:
 
