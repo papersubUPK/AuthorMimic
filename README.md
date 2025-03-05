@@ -1,6 +1,6 @@
-Replication Package for the paper entitled"-------"
+Replication Package for the paper entitled "Breaking the Imitation Game: Can LLMs Fool Humans and Machines Alike?"
 
-Datasets: To answer the research questions, we considered two different datasets. The first is the same one used in: "S. Cresci, R. Di Pietro, M. Petrocchi, A. Spognardi, and M. Tesconi, “The paradigm-shift of social spambots: Evidence, theories, and tools for the arms race,” in Proceedings of the 26th international conference on World wide web companion, 2017, pp. 963–972", which comprises actual human authors with numerous tweets. we took the human samples from the human dataset (Human-Extraction.csv). The LLMs datasets are built using 10 different models using three prompts. Overall the three data setups are given below:
+Datasets: To answer the research questions, we considered two different datasets. The first is the same one used in: "S. Cresci, R. Di Pietro, M. Petrocchi, A. Spognardi, and M. Tesconi, “The paradigm-shift of social spambots: Evidence, theories, and tools for the arms race,” in Proceedings of the 26th international conference on World wide web companion, 2017, pp. 963–972", which comprises actual human authors with numerous tweets. We took the human samples from the human dataset (Human-Extraction.csv). The LLMs datasets are built using 10 different models using three prompts. Overall, the three data setups are given below:
 
 1. Prompt-01-Extraction.csv; (Setup-01)
 2. Prompt-02-Extraction.csv; (Setup-02)
